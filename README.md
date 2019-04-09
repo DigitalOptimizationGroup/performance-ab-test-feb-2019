@@ -1,5 +1,7 @@
 # Performance A/B Test - Feb 2019
 
+**Disclaimer**: This is a rough notebook, just for discussion. No conclusions here!
+
 [View the notebook directly in Github](https://github.com/DigitalOptimizationGroup/performance-ab-test-feb-2019/blob/master/work/Performance%20AB%20Testing%20-%20Digital%20Optimization%20Group%20-%20February%202019.ipynb)
 
 You can also run this notebook in docker:
